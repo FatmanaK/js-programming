@@ -8,6 +8,10 @@ console.log("============================================================");
 let value= 100;
 console.log(value);
 console.log(typeof value);
+console.log("============================================================");
+value=7.5;
+console.log(value);
+console.log(typeof value);
 
-//const 
+//let vs var:
 
